@@ -1,0 +1,23 @@
+{
+  "common.label.welcome":"Welcome",
+  "common.label.pin": "Security PIN",
+  "common.label.input.pin": "Enter Security PIN\nMUPS to continue",
+  "common.label.balance_mup": "MUPS Balance",
+  "common.label.topup": "Topup",
+  "common.label.details_history": "View Details",
+  "common.label.login":"Login",
+  "common.label.register_account":"Register Account",
+  "common.label.login_mups": "Login to MUPS",
+  "common.label.username": "Username",
+  "common.label.input_username": "Input Username",
+  "common.label.password": "Password",
+  "common.label.input_password": "Input Password",
+  "common.label.no_account_yet": "Don't have an account yet?",
+  "common.label.register_now": "Register Now",
+  "common.label.onboarding_label_1": "Solutions in Transactions",
+  "common.label.onboarding_label_2": "Services that provide ease \n of transactions in making payments",
+  "common.label.pln_prepaid": "PLN Electricity",
+  "common.label.pln_prepaid_label": "PLN Electricity Token",
+  "pln.prepaid.placeholderInput": "Enter Customer ID",
+  "pln.prepaid.token_title": "Electricity Token"
+}

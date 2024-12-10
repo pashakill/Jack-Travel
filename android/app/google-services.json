@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "850196307505",
+    "firebase_url": "https://fello-93d00.firebaseio.com",
+    "project_id": "fello-93d00",
+    "storage_bucket": "fello-93d00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850196307505:android:bfa6b446cb6b734ff67f10",
+        "android_client_info": {
+          "package_name": "com.optima.mobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850196307505-dapdvoo7vkqhr6vcs4i9e4dodqddsdff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.optima.mobs",
+            "certificate_hash": "7088d1308a07a0090378d516e7264578df4b000e"
+          }
+        },
+        {
+          "client_id": "850196307505-ctfa0lh0955akptd2vhpr3g7e0mm396a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfmU6ZfjJwLCHA65vzk4oBl-Gby3BgALQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850196307505-ctfa0lh0955akptd2vhpr3g7e0mm396a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

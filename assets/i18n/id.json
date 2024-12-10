@@ -1,0 +1,24 @@
+{
+  "common.label.welcome":"Selamat Datang",
+  "common.label.pin": "PIN Keamanan",
+  "common.label.input.pin": "Masukkan PIN Keamanan\nMUPS untuk lanjut",
+  "common.label.balance_mup": "Saldo MUPS",
+  "common.label.topup": "Isi Saldo",
+  "common.label.details_history": "Lihat Detail",
+  "common.label.login":"Masuk",
+  "common.label.register_account":"Daftar Akun",
+  "common.label.login_mups": "Masuk Ke MUPS",
+  "common.label.username": "Username",
+  "common.label.input_username": "Masukan Username",
+  "common.label.password": "Password",
+  "common.label.input_password": "Masukan Password",
+  "common.label.no_account_yet": "Belum punya Akun?",
+  "common.label.register_now": "Daftar Sekarang",
+  "common.label.onboarding_label_1": "Solusi Dalam Bertransaksi",
+  "common.label.onboarding_label_2": "Layanan yang memberikan kemudahan\nbertransaksi dalam melakukan pembayaran",
+  "common.label.pln_prepaid": "Listrik PLN",
+  "common.label.pln_prepaid_label": "Token Listrik PLN",
+  "pln.prepaid.placeholderInput": "Masukan ID Pelanggan",
+  "pln.prepaid.token_title": "Token Listrik"
+
+}
